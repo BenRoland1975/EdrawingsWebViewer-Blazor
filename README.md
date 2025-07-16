@@ -62,3 +62,7 @@ EdrawingsWebViewer/
 - eDrawings Viewer must be installed and registered
 - The application automatically detects and tests eDrawings availability
 - Multiple fallback methods ensure compatibility across different eDrawings versions 
+
+<img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/10648ebf-7894-4395-97e6-cf4788b1051e" />
+<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/d129c240-ee54-4564-976e-72ccd545839e" />
+
